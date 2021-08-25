@@ -50,6 +50,27 @@ Ejecutar un proyecto
 ### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
 ## Sin parámetros
- ### 
+   Debido a que no tiene parámetro alguno, se va a enviar un mensaje por defecto ``` Parameter of type RegularShapeType is required ```
+   
+   
+   ![Image](https://github.com/DiegoGonzalez2807/lab2-cvds/blob/main/Resources/parametro1.png) 
+   
+## Parámetro qwerty
+   Como ```qwerty``` no es un parámetro definido, se manda un mensaje de error  ``` Parameter "qwerty" is not a valid RegularShapeType ```
+   
+   
+   ![Image](https://github.com/DiegoGonzalez2807/lab2-cvds/blob/main/Resources/parametro2.png) 
+   
+ ## Parámetro pentagon
+   ```pentagon``` es un parámetro que si está definido pero solo si empieza con mayúscula, de lo contrario no sirve ``` Parameter "pentagon" is not a valid RegularShapeType ```
+   
+   
+   ![Image](https://github.com/DiegoGonzalez2807/lab2-cvds/blob/main/Resources/parametro3.png) 
+   
+ ## Parámetro Hexagon
+ ```Hexagon``` es un paraámetro que si está definido y si está bien escrito ``` Successfully created a Hexagon with 6 sides ```
+   
+   
+   ![Image](https://github.com/DiegoGonzalez2807/lab2-cvds/blob/main/Resources/parametro4.png) 
   
   
