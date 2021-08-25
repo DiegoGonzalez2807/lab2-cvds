@@ -39,5 +39,17 @@ Ejecutar un proyecto
   En donde la ruta se refiere a la direccion Path de el proyecto. 
   En caso que el usuario requiera parametros hacemos uso de -Dexec.  
   ``` mvn exec:java -Dexec.mainClass=<ruta>.<clase> -Dexec.arguments = "argumento1 argumenti2 …"```  
+ 
+
+## HACER EL ESQUELETO DE LA APLICACION
+### Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+1. Sin Parámetros
+2. Parámetro: qwerty
+3. Parámetro: pentagon
+4. Parámetro: Hexagon
+### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+## Sin parámetros
+ ### 
   
   
